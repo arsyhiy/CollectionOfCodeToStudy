@@ -1,5 +1,4 @@
-from random import choice
-
+from random import choice 
 digits = '0123456789'
 uppercase = 'ABDCEFGHIJKMNOPQRSTUWXYZ'
 lowercase = 'abcdefghijkmnopqrstuwxyz'
