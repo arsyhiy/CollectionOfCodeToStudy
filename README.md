@@ -1,4 +1,4 @@
-# CollectioOfCodeToStudy
+# CollectionOfCodeToStudy
 
 list of site that i use for learning :
 
