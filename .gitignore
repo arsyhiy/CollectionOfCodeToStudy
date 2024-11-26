@@ -17896,3 +17896,16 @@ python/CollectionOfDjangoProjects/multiplesubmitbuttoninsingleform/newslatter/ap
 python/CollectionOfDjangoProjects/multiplesubmitbuttoninsingleform/newslatter/appnewslatter/migrations/__pycache__/0001_initial.cpython-312.pyc
 python/CollectionOfDjangoProjects/JokeAplication/jokeapp/db.sqlite3
 python/CollectionOfDjangoProjects/JokeAplication/jokeapp/main/migrations/__pycache__/__init__.cpython-312.pyc
+python/CollectionOfDjangoProjects/urlShort/url/__pycache__/__init__.cpython-312.pyc
+python/CollectionOfDjangoProjects/urlShort/url/__pycache__/admin.cpython-312.pyc
+python/CollectionOfDjangoProjects/urlShort/url/__pycache__/apps.cpython-312.pyc
+python/CollectionOfDjangoProjects/urlShort/url/__pycache__/forms.cpython-312.pyc
+python/CollectionOfDjangoProjects/urlShort/url/__pycache__/models.cpython-312.pyc
+python/CollectionOfDjangoProjects/urlShort/url/__pycache__/urls.cpython-312.pyc
+python/CollectionOfDjangoProjects/urlShort/url/__pycache__/views.cpython-312.pyc
+python/CollectionOfDjangoProjects/urlShort/url/migrations/__pycache__/__init__.cpython-312.pyc
+python/CollectionOfDjangoProjects/urlShort/urlShort/__pycache__/__init__.cpython-312.pyc
+python/CollectionOfDjangoProjects/urlShort/urlShort/__pycache__/settings.cpython-312.pyc
+python/CollectionOfDjangoProjects/urlShort/urlShort/__pycache__/urls.cpython-312.pyc
+python/CollectionOfDjangoProjects/urlShort/urlShort/__pycache__/wsgi.cpython-312.pyc
+python/CollectionOfDjangoProjects/urlShort/db.sqlite3
