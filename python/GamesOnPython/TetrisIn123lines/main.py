@@ -1,7 +1,6 @@
 import tkinter as tk
 import random
 from threading import Lock
-
 COLORS = ['gray', 'lightgreen', 'pink', 'blue', 'orange', 'purple']
 
 class Tetris():
@@ -134,4 +133,3 @@ app = Application(master=root)
 app.mainloop()
 
 
-# asdasdf
