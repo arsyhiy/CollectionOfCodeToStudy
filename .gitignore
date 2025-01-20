@@ -1014,3 +1014,7 @@ python/pandas/.venv/lib/python3.12/site-packages/pip-24.0.dist-info/top_level.tx
 python/pandas/.venv/lib/python3.12/site-packages/pip-24.0.dist-info/WHEEL
 .gitignore
 .gitignore
+python/GamesOnPython/venv/bin
+python/GamesOnPython/venv/lib/python3.12/site-packages
+python/GamesOnPython/venv/lib64
+python/GamesOnPython/venv/pyvenv.cfg
